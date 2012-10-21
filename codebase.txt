@@ -6,3 +6,8 @@ def new_foo():
 
 def some_cool_method():
     pass
+
+def feat_01_do():
+    pass
+    #more stuff to feat1
+    #and even more and final stuff
