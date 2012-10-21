@@ -3,3 +3,6 @@ def foo():
 
 def new_foo():
     pass
+
+def some_cool_method():
+    pass
