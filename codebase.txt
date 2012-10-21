@@ -3,3 +3,6 @@ def foo():
 
 def new_foo():
     pass
+
+def feat_01_do():
+    pass
